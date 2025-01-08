@@ -32,7 +32,7 @@ yarn dev
 
 ## Demo
 
-https://github.com/[your-username]/skeleton-images-next-js/assets/[your-id]/demo.mp4
+https://github.com/user-attachments/assets/6ffbb85f-5cb4-4de3-bae0-18b736697c71
 
 The demo shows the skeleton loading effect with a 1.5 second delay for demonstration purposes.
 
